@@ -7,7 +7,7 @@ CRUD Create-Crear Reads-Leer Update-Actualizar Delete-Borrar Tabla Materia
 
 - Botones borrar y editar
 
-![image](https://github.com/user-attachments/assets/c2dce309-fbf0-4e63-b6a8-a2e1ae702204)
+![image](https://github.com/user-attachments/assets/821a8a25-b33f-4dde-a583-5474dc132cf7)
 
 - Ventana Editar
 
