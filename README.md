@@ -11,4 +11,5 @@ CRUD Create-Crear Reads-Leer Update-Actualizar Delete-Borrar Tabla Materia
 
 - Ventana Editar
 
-![image](https://github.com/user-attachments/assets/19041c96-3b1b-4351-a097-6c5dac8cbe9f)
+![image](https://github.com/user-attachments/assets/1588a289-4f2d-4709-a53b-dbc5b5cf6f1f)
+
